@@ -1,0 +1,119 @@
+.upper_box {
+    background-color: #E61610; 
+    height: 2em; 
+    width: 100%;
+}
+
+.second_box {
+    background-color: #FFFFFF; 
+    height: 1em; 
+    width: 100%;
+}
+.background{
+    background-color:#1071F2;
+    /*background-size: auto;
+    background-repeat: no-repeat;
+    background-position-x: center;*/
+}
+
+.agbalumo {
+    font-family: "Agbalumo", sans-serif;
+    color:#1071F2;
+}
+
+.button{
+    font-size: 20px;
+    padding: 15px;
+
+}
+.button_div{
+    height: 200px;
+    position: relative;
+  }
+  
+.vertical-center{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.fat_padding{
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+@font-face {
+    font-family: 'Agbalumo';
+    src: url('https://fonts.cdnfonts.com/s/107474/Agbalumo-Regular.woff') format('woff');
+}
+
+h1 {
+    font-size: 4em;
+}
+
+h2 {
+    font-size: 3em;
+}
+
+h3 {
+    font-size: 3em;
+}
+
+h4 {
+    font-size: 2em;
+}
+
+h5{
+    font-size: 1em;
+}
+
+p {
+    font-size: 1em;
+}
+
+.nav_li {
+    display: inline;
+    padding-inline: 2px;
+    font-size: 8px;
+  }
+
+ul{
+    padding-top: 3px;
+    float:right;
+}
+
+a{
+    color:#FFFFFF;
+    padding: 2px;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+li a:hover {
+    color: #1071F2;
+  }
+
+#welcome{
+    padding-top: 70px;
+    padding-left: 10px;
+    color: #FFFFFF;
+}
+
+.fondo_azul{
+    background-color: #1071F2;
+    color: #FFFFFF;
+}
+
+.paragraph{
+    padding-left: 50px;
+
+}
+
+#blue_box_content{
+    padding-top: 100px;
+    padding-bottom: 50px;
+    text-align: center;
+    color:#FFFFFF;
+}
